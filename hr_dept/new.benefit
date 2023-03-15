@@ -1,0 +1,4 @@
+const salary = "20000"
+const allowance = "1200"
+const bonuses = "10000"
+
